@@ -1,5 +1,6 @@
 ---
-# Déontologie du coach
+title: Déontologie du coach
+---
 
 Obligation de moyens : je mets toutes mes compétences à votre disposition
 Formation professionnelle et permanente : j’ai suivi une formation qualifiante et je continue à me former
