@@ -1,5 +1,5 @@
 ---
-title: Mon offre
+title: Offre de service
 ---
 
 # Particuliers
