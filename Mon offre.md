@@ -1,3 +1,7 @@
+---
+title: Mon offre
+---
+
 # Particuliers
 
 •	Vous faire accompagner dans un cadre confidentiel pour résoudre des problèmes/préoccupations que
