@@ -24,3 +24,7 @@ Les techniques de développement personnel
 Formation prise de parole en public…
 La communication non violente
 Emergence et valorisation de l’intelligence collective
+
+# Mes Valeurs et mots clés
+
+Bienveillance, échange, empathie, optimisme, convivialité, ouverture et attention inconditionnelles, générosité, non-jugement, patience, écoute, authenticité, soutien, intuition, flexibilité, réalisme, positivisme, confiance, sincérité, respect, performance, dynamisme, énergie, efficacité, réussite, responsabilisation, autonomie, accomplissement, équilibre, liberté…
