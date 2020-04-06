@@ -1,5 +1,5 @@
 ---
-title: votre coach
+title: Votre coach
 ---
 Je mets à votre disposition les vingt-cinq années d’expériences professionnelles diversifiées et mon expérience de vie qui m’ont amené à développer mon goût pour les relations humaines.
 J’accompagne de nombreuses personnes dans leurs projets personnels ou professionnels.
