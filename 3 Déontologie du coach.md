@@ -9,4 +9,4 @@ Respect de la personne : bienveillance et non jugement
 Processus de travail sur soi : je continue à travailler sur moi pour un accompagnement de qualité maximal
 Supervision : j’échange avec mes pairs
 
-[Charte à télécharger – Code-déontologieSFCoach-V2011 et SFCoach-Codeofethics-2011](https://www.emccfrance.org/deontologie-coach-mentors/)
+[Charte à télécharger – Code-déontologieSFCoach-V2011 et SFCoach-Codeofethics-2011](https://www.emccfrance.org/wp-content/uploads/20170418_FR_WEB_livret.pdf)
