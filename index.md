@@ -1,3 +1,11 @@
+<div id="menu">
+  <ul class="posts">
+    {% for post in site.pages %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aperophilo/AOIsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
