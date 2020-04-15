@@ -1,45 +1,19 @@
-<div id="menu">
-  <ul class="posts">
-    {% for post in site.pages %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+# Témoignages de coachés
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aperophilo/AOIsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+« Je me suis sentie en confiance et libre d’avancer. Beaucoup d’écoute et de bienveillance pour un travail structurant mais tout en légèreté. Très bénéfique et appréciable ! » Anne-Françoise, mai 2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+« Une belle démarche de développement personnel et beaucoup d’apaisement, d’éclairage et de conscientisation. Je me sens différente. J’ai confiance en mes capacités à présent ! » Nathalie, juin 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+« Le coaching m’a beaucoup apporté car il m’a notamment permis d’améliorer ma relation aux autres en travaillant sur la communication. J’ai une meilleure connaissance de moi-même. Je suis déterminé à maintenir le chemin du changement ! » Matthieu, juin 2019
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+« Ecoute, bienveillance : un accompagnement qui m’a permis d’appréhender différemment les embuches qui barrent parfois mon chemin, avec de réels impacts tant sur le plan personnel que professionnel . » Yves, juillet 2019
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+« Un accompagnement tout en douceur. Dans l’écoute véritable et la compréhension. » Pauline, février 2020
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aperophilo/AOIsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+« J’ai beaucoup apprécié l’adaptabilité des séances et du coach. La démarche de coaching est bien cadrée sur le point théorique permettant au coaché d’avoir des outils à disposition pour se débrouiller pour la suite. » Thomas, avril 2020
