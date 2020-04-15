@@ -15,15 +15,25 @@ Afin de développer mes connaissances et de continuer à être performant, je co
 # Mes compétences
 
 La conduite du changement
+
 La programmation neuro-linguistique
+
 Animation de groupes
+
 Le coaching systémique
+
 L’analyse transactionnelle
+
 Formation gestion du stress
+
 Le coaching du management et des organisations
+
 Les techniques de développement personnel
-Formation prise de parole en public…
+
+Formation prise de parole en public
+
 La communication non violente
+
 Emergence et valorisation de l’intelligence collective
 
 # Mots clés
