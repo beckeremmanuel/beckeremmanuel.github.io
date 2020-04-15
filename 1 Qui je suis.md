@@ -14,7 +14,6 @@ Afin de développer mes connaissances et de continuer à être performant, je co
 
 # Mes compétences
 
-Coach certifié MHD-Formation Paris
 La conduite du changement
 La programmation neuro-linguistique
 Animation de groupes
