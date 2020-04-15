@@ -1,7 +1,9 @@
 
+
 Formateur & coach professionnel certifié, titre RNCP – accompagnement au changement – coaching du management – CoDéveloppement - Expériences variées dans le secteur privé et dans le secteur public
 
 # Témoignages de coachés
+
 
 
 « Je me suis sentie en confiance et libre d’avancer. Beaucoup d’écoute et de bienveillance pour un travail structurant mais tout en légèreté. Très bénéfique et appréciable ! » Anne-Françoise, mai 2019
