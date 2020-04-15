@@ -34,6 +34,8 @@ Formation prise de parole en public
 
 La communication non violente
 
+Cohésion d'équipe
+
 Emergence et valorisation de l’intelligence collective
 
 # Mots clés
