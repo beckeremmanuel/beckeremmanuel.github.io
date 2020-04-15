@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.menu {
+    width: 940px;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    ul {
+        padding:0;
+        margin:auto;
+        list-style-type:none;
+    }
+    li {
+        float:left; /*pour IE*/
+        border-left: 1px solid #2e7bcf;
+        padding: 8px;
+
+        border-bottom: 1px solid #2e7bcf;
+    }
+    li:last-child {
+
+        border-right: 1px solid #2e7bcf;
+    }
+    ul li a {
+        display:block;
+        float:left;   
+        text-align:center;
+    }
+
+    // ul li a::after {
+    //     content: " |";
+    // }
+
+    ul li a:hover  {
+        text-decoration: underline;
+    }
+        
+}
+
+
+header h1 { width: 940px; }
+
+header h2 { width: 940px;  }
