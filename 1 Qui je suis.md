@@ -1,9 +1,10 @@
 ---
 title: Votre coach
 ---
-Formateur & coach professionnel certifié, titre RNCP – accompagnement au changement – coaching du management – CoDéveloppement - Expériences variées dans le secteur privé et dans le secteur public
+Formateur & coach professionnel certifié, titre RNCP
+Membre de l'EMCC France
 
-Je mets à votre disposition les vingt-cinq années d’expériences professionnelles diversifiées et mon expérience de vie qui m’ont amené à développer mon goût pour les relations humaines.
+Je mets à votre disposition les vingt-cinq années d’expériences professionnelles diversifiées, tant dans le secteur privé que dans le secteur public, et mon expérience de vie qui m’ont amené à développer mon goût pour les relations humaines.
 J’accompagne de nombreuses personnes dans leurs projets personnels ou professionnels.
 
 Je vous aide à mieux vivre les situations de stress et de conflit et à mieux appréhender les phases de changements que vous traversez.
