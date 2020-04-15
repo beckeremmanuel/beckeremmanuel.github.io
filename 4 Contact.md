@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-
+![carte de visite](./carte-visite.png)
 
 
 AOI - Act On It-Coaching & formation
