@@ -9,7 +9,7 @@ _« La vie mettra des pierres sur ton chemin. A toi de décider si tu en fais un
 
 Formateur & coach professionnel certifié, titre RNCP
 
-Accompagnement au changement – coaching du management – CoDéveloppement
+Accompagnement au changement – coaching de vie - coaching professionnel – CoDéveloppement
 
 Expériences variées dans le secteur privé et dans le secteur public
 
