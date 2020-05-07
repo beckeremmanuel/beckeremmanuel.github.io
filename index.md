@@ -1,4 +1,8 @@
 
+« La vie mettra des pierres sur ton chemin. A toi de décider si tu en fais un mur ou un pont.»
+
+
+Emmanuel BECKER
 
 Formateur & coach professionnel certifié, titre RNCP
 
