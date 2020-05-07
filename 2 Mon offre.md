@@ -2,6 +2,8 @@
 title: Offre de service
 ---
 
+En présentiel ou en distanciel
+
 # Particuliers
 
 •	Vous faire accompagner dans un cadre confidentiel pour résoudre des problèmes/préoccupations que
