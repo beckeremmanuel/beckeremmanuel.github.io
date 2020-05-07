@@ -2,27 +2,27 @@
 title: Déontologie du coach
 ---
 
-# Obligation de moyens
+### Obligation de moyens
 
 Je mets toutes mes compétences à votre disposition
 
-# Formation professionnelle et permanente
+### Formation professionnelle et permanente
 
 J’ai suivi une formation qualifiante et je continue à me former
 
-# Confidentialité et indépendance
+### Confidentialité et indépendance
 
 Je respecte la confidentialité de nos échanges
 
-# Respect de la personne
+### Respect de la personne
 
 Bienveillance et non jugement
 
-# Processus de travail sur soi
+### Processus de travail sur soi
 
 Je continue à travailler sur moi pour un accompagnement de qualité maximal
 
-# Supervision
+### Supervision
 
 J’échange avec mes pairs
 
