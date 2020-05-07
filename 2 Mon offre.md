@@ -15,6 +15,8 @@ vous rencontrez dans votre vie personnelle ou professionnelle
 
 •	Atteindre les objectifs que vous vous fixez
 
+•	Accompagnement scolaire, travaux universitaires, préparation aux concours...
+
   Des séances de coaching individuel d’une heure et demie (accompagnement contractualisée qui précisera les modalités et le tarif).
 
   Par l’écoute, le questionnement et des outils appropriés, je vous permets, en tant que coach, de poser les vrais problèmes, de clarifier vos objectifs et de faire émerger vos solutions.
