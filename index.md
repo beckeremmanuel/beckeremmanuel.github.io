@@ -1,13 +1,16 @@
 
 _« La vie mettra des pierres sur ton chemin. A toi de décider si tu en fais un mur ou un pont.»_
-<div style="align-text: right" >
- ![](https://media-exp1.licdn.com/dms/image/C4D03AQEFgo2F0yIZNA/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=U6BOPPeJBbYIt1WX6UylvBKcniZzC967tkwoXII0dQU)
+
+<div style="text-align: right" >
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEFgo2F0yIZNA/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=U6BOPPeJBbYIt1WX6UylvBKcniZzC967tkwoXII0dQU" />
   <br />
 Emmanuel BECKER
 </div>
+
 Formateur & coach professionnel certifié, titre RNCP
 
 Accompagnement au changement – coaching du management – CoDéveloppement
+
 Expériences variées dans le secteur privé et dans le secteur public
 
 # Témoignages de coachés
