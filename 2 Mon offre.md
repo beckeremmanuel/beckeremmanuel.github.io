@@ -5,7 +5,7 @@ title: Offre de service
 # Particuliers
 
 •	Vous faire accompagner dans un cadre confidentiel pour résoudre des problèmes/préoccupations que
-vous rencontrez dans votre vie professionnelle
+vous rencontrez dans votre vie personnelle ou professionnelle
 
 •	Travailler sur vos difficultés, vos modes de fonctionnement
 
