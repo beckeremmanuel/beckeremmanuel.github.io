@@ -35,9 +35,11 @@ Finalité : art de communiquer, clarifier et atteindre ses objectifs, gérer les
 
 •	Créer de la complémentarité et faire des différences une source de performance
 
-  Des séances de coaching d’équipe ou un Team Building selon vos besoins
-Une analyse de vos objectifs est nécessaire pour définir une offre de service et contractualiser l’accompagnement. Tarifs sur demande.
-Développer les performances, faire le point sur le fonctionnement de l’équipe et mettre à jour les dysfonctionnements tout en valorisant les points forts
+  Des séances de coaching d’équipe ou un Team Building selon vos besoins.
+  
+  Une analyse de vos objectifs est nécessaire pour définir une offre de service et contractualiser l’accompagnement. Tarifs sur demande.
+
+Etre créatif, développer les performances, faire le point sur le fonctionnement de l’équipe et mettre à jour les dysfonctionnements tout en valorisant les points forts.
 
 •	Résoudre des situations de blocage rencontrées par l’équipe ou encore accompagner l’équipe dans les changements intrinsèques ou extrinsèques
 
