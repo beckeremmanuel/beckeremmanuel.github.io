@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-![carte de visite](./carte-visite.png =250px)
+<img src="./carte-visite.png" alt="Carte de visite" width="250px" />
 
 
 AOI - Act On It-Coaching & formation
