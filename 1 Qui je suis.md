@@ -25,15 +25,17 @@ Le coaching systémique
 
 L’analyse transactionnelle
 
-Formation gestion du stress
-
-Le coaching du management et des organisations
+La communication non violente
 
 Les techniques de développement personnel
 
+Gestion des émotions
+
+Formation gestion du stress
+
 Formation prise de parole en public
 
-La communication non violente
+Le coaching du management et des organisations
 
 Animation de groupes
 
