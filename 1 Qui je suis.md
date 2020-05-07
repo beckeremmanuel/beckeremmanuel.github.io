@@ -21,8 +21,6 @@ La conduite du changement
 
 La programmation neuro-linguistique
 
-Animation de groupes
-
 Le coaching systémique
 
 L’analyse transactionnelle
@@ -36,6 +34,8 @@ Les techniques de développement personnel
 Formation prise de parole en public
 
 La communication non violente
+
+Animation de groupes
 
 Cohésion d'équipe
 
