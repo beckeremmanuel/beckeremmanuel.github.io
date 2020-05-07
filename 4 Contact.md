@@ -13,6 +13,4 @@ Emmanuel BECKER
 
 Tel : 06 62 49 17 50
 
-<a href="#" class="fa fa-linkedin"></a>
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
+<a href="" class="fa fa-linkedin"></a>&nbsp;<a href="https://facebook.com/emmanuel.becker.71" class="fa fa-facebook"></a>&nbsp;<a href="#" class="fa fa-twitter"></a>
