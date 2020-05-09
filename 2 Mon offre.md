@@ -2,7 +2,9 @@
 title: Offre de service
 ---
 
-En présentiel ou en distanciel
+Accueillez le changement, booster vos projets !
+
+Accompagnement en présentiel ou en distanciel
 
 # Particuliers
 
