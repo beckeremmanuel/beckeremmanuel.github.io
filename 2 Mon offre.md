@@ -19,6 +19,8 @@ vous rencontrez dans votre vie personnelle ou professionnelle
 
 •	Besoin d'accompagnement scolaire, pour vos travaux universitaires, la préparation aux concours...
 
+• Besoin de "transition intérieure" pour trouver du sens dans l'évolution actuelle du monde
+
   Je vous propose des séances de coaching individuel d’une heure et demie pour un accompagnement contractualisée qui précisera les modalités et le tarif.
 
   Par l’écoute, le questionnement et des outils appropriés, je vous permets d'identifier et de poser les "vrais problèmes", de clarifier vos objectifs et vous aide à mobiliser vos ressources afin de faire émerger vos solutions.
