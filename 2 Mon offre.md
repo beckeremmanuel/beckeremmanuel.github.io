@@ -19,7 +19,7 @@ vous rencontrez dans votre vie personnelle ou professionnelle
 
 •	Besoin d'accompagnement scolaire, pour vos travaux universitaires, la préparation aux concours...
 
-• Besoin de "transition intérieure" pour trouver du sens dans l'évolution actuelle du monde
+• Besoin de "transition intérieure", gagner en résiience pour trouver du sens dans l'évolution actuelle du monde
 
   Je vous propose des séances de coaching individuel d’une heure et demie pour un accompagnement contractualisée qui précisera les modalités et le tarif.
 
