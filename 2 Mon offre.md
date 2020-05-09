@@ -38,6 +38,8 @@ Finalité : améliorer votre relationnel, mieux appréhender l'art de communique
 •	Connaître/se reconnaître : apprendre à se connaître soi-même et à connaître les autres membres de l’équipe
 
 •	Créer de la complémentarité et faire des différences une source de richesses, de performance
+
+• Favoriser l'agilité, la proactivité au sein d'une équipe
  
 • Mieux fonctionner ensemble et rompre les habitudes
 
