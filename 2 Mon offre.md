@@ -23,7 +23,7 @@ vous rencontrez dans votre vie personnelle ou professionnelle
 
   Par l’écoute, le questionnement et des outils appropriés, je vous permets d'identifier et de poser les "vrais problèmes", de clarifier vos objectifs et vous aide à mobiliser vos ressources afin de faire émerger vos solutions.
 
-Finalité : améliorer votre relationnel, mieux appréhender l'art de communiquer, clarifier et atteindre vos objectifs, gérer les conflits, trouver votre essentiel...
+Finalité : améliorer votre relationnel, mieux appréhender l'art de communiquer, clarifier et atteindre vos objectifs, gérer les conflits, prendre ou retrouver confiance en soi, trouver votre essentiel...
 
 # Entreprises - associations
 
