@@ -6,7 +6,7 @@ En présentiel ou en distanciel
 
 # Particuliers
 
-•	Vous faire accompagner dans un cadre confidentiel pour résoudre des problèmes/préoccupations que
+•	Vous faire accompagner dans un cadre confidentiel pour résoudre des préoccupations, des problèmes que
 vous rencontrez dans votre vie personnelle ou professionnelle
 
 •	Travailler sur vos difficultés, vos modes de fonctionnement
@@ -17,13 +17,13 @@ vous rencontrez dans votre vie personnelle ou professionnelle
 
 •	Atteindre les objectifs que vous vous fixez
 
-•	Accompagnement scolaire, travaux universitaires, préparation aux concours...
+•	Besoin d'accompagnement scolaire, pour vos travaux universitaires, la préparation aux concours...
 
-  Des séances de coaching individuel d’une heure et demie (accompagnement contractualisée qui précisera les modalités et le tarif).
+  Je vous propose des séances de coaching individuel d’une heure et demie pour un accompagnement contractualisée qui précisera les modalités et le tarif.
 
-  Par l’écoute, le questionnement et des outils appropriés, je vous permets, en tant que coach, de poser les vrais problèmes, de clarifier vos objectifs et de faire émerger vos solutions.
+  Par l’écoute, le questionnement et des outils appropriés, je vous aide à mobiliser vos ressources et vous permets de poser les "vrais problèmes", de clarifier vos objectifs et de faire émerger vos solutions.
 
-Finalité : art de communiquer, clarifier et atteindre ses objectifs, gérer les conflits…
+Finalité : améliorer votre relationnel, mieux appréhender l'art de communiquer, clarifier et atteindre vos objectifs, gérer les conflits...
 
 # Entreprises - associations
 
@@ -35,18 +35,14 @@ Finalité : art de communiquer, clarifier et atteindre ses objectifs, gérer les
 
 •	Faire monter votre équipe en compétence en lui permettant d’atteindre la maturité nécessaire à la performance
 
-•	Apprendre à se connaître et à connaître les autres membres de l’équipe
+•	Connaître/se reconnaître : apprendre à se connaître soi-même et à connaître les autres membres de l’équipe
 
-•	Créer de la complémentarité et faire des différences une source de performance
+•	Créer de la complémentarité et faire des différences une source de richesses, de performance
+ 
+• Mieux fonctionner ensemble et rompre les habitudes
 
-  Des séances de coaching d’équipe ou un Team Building selon vos besoins.
-  
-  Une analyse de vos objectifs est nécessaire pour définir une offre de service et contractualiser l’accompagnement. Tarifs sur demande.
+• Mettre en place des séances de coaching d’équipe, construire de la cohésion d'équipe (team Building)
 
-Etre créatif, développer les performances, faire le point sur le fonctionnement de l’équipe et mettre à jour les dysfonctionnements tout en valorisant les points forts.
+Finalité : développer vos compétences relationnelles et opérationnelles, accroître vos performances, développer votre créativité, faire le point sur le fonctionnement de l’équipe et mettre à jour les dysfonctionnements tout en valorisant les points forts, résoudre des situations de blocage rencontrées par l’équipe ou encore accompagner l’équipe dans les changements intrinsèques ou extrinsèques...
 
-•	Résoudre des situations de blocage rencontrées par l’équipe ou encore accompagner l’équipe dans les changements intrinsèques ou extrinsèques
-
-  Par l’utilisation de pédagogies alternatives, de jeux et de mises en situation, et afin de mieux fonctionner ensemble et rompre les habitudes, je vous accompagne dans les débriefings, réflexions communes et liens avec la réalité quotidienne de l’équipe et les préoccupations, les changements dans la vie de l’entreprise ou de l’organisation (secteur privé, secteur public, secteur associatif). Création d’expériences correctrices et de nouveau apprentissages collaboratifs.
-
-Finalité : développer ses compétences relationnelles et opérationnelles, accroître sa performance de façon écologique…
+  Par l’utilisation de pédagogies alternatives, de mises en situation ludiques, en fonction de vos besoins, je vous accompagne dans vos réflexions communes en lien avec la réalité quotidienne de votre équipe et de vos préoccupations et les changements dans la vie de l’entreprise ou de l’organisation (secteur privé, secteur public, secteur associatif). Je vous apporte un appui également dans vos  débriefings pour, notamment, faire émerger de nouveaux apprentissages collaboratifs. Une analyse de vos objectifs est alors indispensable pour définir une offre de service et contractualiser l’accompagnement. Devis et tarifs sur demande.
