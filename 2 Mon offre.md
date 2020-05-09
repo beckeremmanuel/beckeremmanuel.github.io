@@ -21,7 +21,7 @@ vous rencontrez dans votre vie personnelle ou professionnelle
 
   Je vous propose des séances de coaching individuel d’une heure et demie pour un accompagnement contractualisée qui précisera les modalités et le tarif.
 
-  Par l’écoute, le questionnement et des outils appropriés, je vous permets de poser les "vrais problèmes", de clarifier vos objectifs et vous aide à mobiliser vos ressources afin de faire émerger vos solutions.
+  Par l’écoute, le questionnement et des outils appropriés, je vous permets d'identifier et de poser les "vrais problèmes", de clarifier vos objectifs et vous aide à mobiliser vos ressources afin de faire émerger vos solutions.
 
 Finalité : améliorer votre relationnel, mieux appréhender l'art de communiquer, clarifier et atteindre vos objectifs, gérer les conflits...
 
