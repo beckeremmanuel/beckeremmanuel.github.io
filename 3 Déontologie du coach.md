@@ -4,7 +4,7 @@ title: Déontologie du coach
 
 ### Obligation de moyens
 
-Je mets toutes mon expérience et mes compétences à votre disposition
+Je mets mon expérience et toutes mes compétences à votre disposition
 
 ### Formation professionnelle et permanente
 
