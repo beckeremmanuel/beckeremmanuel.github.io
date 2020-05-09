@@ -2,12 +2,6 @@
 title: Offre de service
 ---
 
-_"Accueillez le changement, booster vos projets !"_
-
-<div style="text-align: left; " >
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEFgo2F0yIZNA/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=U6BOPPeJBbYIt1WX6UylvBKcniZzC967tkwoXII0dQU" />
-  <br />
-
 Accompagnement en présentiel ou en distanciel
 
 # Particuliers
