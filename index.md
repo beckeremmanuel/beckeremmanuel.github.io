@@ -13,7 +13,7 @@ Accompagnement au changement – coaching de vie - coaching professionnel – Co
 
 Expériences variées dans le secteur privé et dans le secteur public
 
-Vous êtes sujet au stress, soucieux de votre santé, vous souhaitez surmonter vos peurs, vous avez envie d'améliorer votre organisation, votre relationnel ou tout simplement besoin de prendre du temps pour vous et opter pour le développement personnel, a fortiori dans le contexte actuel de crise ? Passez à l'action !
+Vous êtes sujet au stress, soucieux de votre santé, vous souhaitez surmonter vos peurs, vous avez envie d'améliorer votre organisation, votre relationnel ou vous avez tout simplement besoin de prendre du temps pour vous et optez pour le développement personnel, a fortiori dans le contexte actuel de crise ? Passez à l'action !
 
 # Témoignages de coachés
 
