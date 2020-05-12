@@ -50,3 +50,6 @@ A l’écoute, engagé, dynamique, mobile, ouvert, polyvalent, flexible, loyal�
 # Mes valeurs
 
 Bienveillance, échange, empathie, optimisme, convivialité, ouverture et attention inconditionnelles, générosité, non-jugement, patience, écoute, authenticité, soutien, soildarité, intuition, flexibilité, réalisme, positivisme, confiance, sincérité, respect, performance, dynamisme, énergie, créativité, efficacité, réussite, responsabilisation, autonomie, accomplissement, équilibre, liberté…
+
+
+[Biographie à télécharger] 
