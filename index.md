@@ -2,7 +2,7 @@
 _« La vie mettra des pierres sur ton chemin. A toi de décider si tu en fais un mur ou un pont.»_
 
 <div style="text-align: left; " >
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEFgo2F0yIZNA/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=U6BOPPeJBbYIt1WX6UylvBKcniZzC967tkwoXII0dQU" />
+<img src="/Photo Linkedin EB.jpg" />
   <br />
 </div>
 
