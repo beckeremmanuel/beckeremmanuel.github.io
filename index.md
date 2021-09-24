@@ -4,16 +4,9 @@ _« La vie mettra des pierres sur ton chemin. A toi de décider si tu en fais un
 <div style="text-align: left; " >
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEFgo2F0yIZNA/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=U6BOPPeJBbYIt1WX6UylvBKcniZzC967tkwoXII0dQU" />
   <br />
- Emmanuel BECKER
 </div>
 
-Formateur & coach professionnel certifié, titre RNCP
-
-Accompagnement au changement – coaching de vie - coaching professionnel – CoDéveloppement
-
-Expériences variées dans le secteur privé et dans le secteur public
-
-Vous êtes sujet au stress, soucieux de votre santé, vous souhaitez surmonter vos peurs, vous avez envie d'améliorer votre organisation, votre relationnel ou vous avez tout simplement besoin de prendre du temps pour vous et choisissez d'opter pour le développement personnel, a fortiori dans le contexte actuel de crise ? Passez à l'action !
+{{ site.description }}
 
 # Témoignages de coachés
 
