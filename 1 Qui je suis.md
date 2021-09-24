@@ -52,15 +52,5 @@ A l’écoute, engagé, dynamique, mobile, ouvert, polyvalent, flexible, loyal�
 Bienveillance, échange, empathie, optimisme, convivialité, ouverture et attention inconditionnelles, générosité, non-jugement, patience, écoute, authenticité, soutien, soildarité, intuition, flexibilité, réalisme, positivisme, confiance, sincérité, respect, performance, dynamisme, énergie, créativité, efficacité, réussite, responsabilisation, autonomie, accomplissement, équilibre, liberté…
 
 
-<div class="embed-container">
-    <iframe
-        data-src="https://youtu.be/NdJinZmvjYI"
-        width="700"
-        height="480"
-        frameborder="0"
-        allowfullscreen=""
-        class="lazyload">
-    </iframe>
-  </div>
-  <br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NdJinZmvjYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
